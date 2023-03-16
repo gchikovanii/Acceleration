@@ -1,0 +1,15 @@
+D:\Acceleration\Task_2\Task_2\bin\Debug\net6.0\Task_2.exe
+D:\Acceleration\Task_2\Task_2\bin\Debug\net6.0\Task_2.deps.json
+D:\Acceleration\Task_2\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+D:\Acceleration\Task_2\Task_2\bin\Debug\net6.0\Task_2.dll
+D:\Acceleration\Task_2\Task_2\bin\Debug\net6.0\Task_2.pdb
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\Task_2.dll
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\Task_2.pdb
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+D:\Acceleration\Task_2\Task_2\obj\Debug\net6.0\ref\Task_2.dll
