@@ -1,0 +1,31 @@
+
+Create table Teacher (
+	Teacher_Id int Not Null IDENTITY(1,1) Primary Key, 
+	FirstName varchar(50),
+	LastName varchar(50),
+	Gender varchar(6),
+	Subject_InSchool varchar(50)
+)
+
+Create table Pupil (
+	Pupil_Id int Not Null IDENTITY(1,1) Primary Key, 
+	FirstName varchar(50),
+	LastName varchar(50),
+	Gender varchar(6),
+	Class int 
+)
+
+Create table Teacher_Pupils(
+	Teacher_Id int, 
+	Pupil_Id int, 
+	Constraint teacher_pupil_pk Primary Key(Teacher_Id, Pupil_Id),
+	Constraint FK_Teacher Foreign Key (Teacher_Id) References Teacher (Teacher_Id),
+	Constraint FK_Pupil Foreign Key (Pupil_Id) References Pupil (Pupil_Id)
+)
+
+select t.FirstName, t.LastName from Teacher as t
+join Teacher_Pupils as tp
+on t.Teacher_Id = tp.Teacher_Id
+join Pupil as p
+on p.Pupil_Id = tp.Pupil_Id
+where p.FirstName = N'გიორგი'
