@@ -1,0 +1,1 @@
+Country: Luxembourg Region: Europe subregion: Western Europe area: 2586 population: 632275 latlng: [49,75 , 6,1666665]

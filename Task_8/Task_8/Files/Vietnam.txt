@@ -1,0 +1,1 @@
+Country: Vietnam Region: Asia subregion: South-Eastern Asia area: 331212 population: 97338583 latlng: [16,166666 , 107,833336]

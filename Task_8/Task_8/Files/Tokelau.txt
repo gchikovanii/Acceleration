@@ -1,0 +1,1 @@
+Country: Tokelau Region: Oceania subregion: Polynesia area: 12 population: 1411 latlng: [-9 , -172]

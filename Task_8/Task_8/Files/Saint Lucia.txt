@@ -1,0 +1,1 @@
+Country: Saint Lucia Region: Americas subregion: Caribbean area: 616 population: 183629 latlng: [13,883333 , -60,966667]

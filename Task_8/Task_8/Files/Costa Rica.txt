@@ -1,0 +1,1 @@
+Country: Costa Rica Region: Americas subregion: Central America area: 51100 population: 5094114 latlng: [10 , -84]

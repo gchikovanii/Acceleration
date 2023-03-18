@@ -1,0 +1,1 @@
+Country: Liechtenstein Region: Europe subregion: Western Europe area: 160 population: 38137 latlng: [47,266666 , 9,533334]

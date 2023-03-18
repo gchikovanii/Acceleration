@@ -1,0 +1,1 @@
+Country: Saint Pierre and Miquelon Region: Americas subregion: North America area: 242 population: 6069 latlng: [46,833332 , -56,333332]

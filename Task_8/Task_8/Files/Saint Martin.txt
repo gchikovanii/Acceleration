@@ -1,0 +1,1 @@
+Country: Saint Martin Region: Americas subregion: Caribbean area: 53 population: 38659 latlng: [18,0708 , 63,0501]

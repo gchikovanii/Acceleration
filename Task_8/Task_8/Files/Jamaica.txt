@@ -1,0 +1,1 @@
+Country: Jamaica Region: Americas subregion: Caribbean area: 10991 population: 2961161 latlng: [18,25 , -77,5]

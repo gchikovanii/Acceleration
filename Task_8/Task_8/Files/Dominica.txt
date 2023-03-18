@@ -1,0 +1,1 @@
+Country: Dominica Region: Americas subregion: Caribbean area: 751 population: 71991 latlng: [15,416667 , -61,333332]

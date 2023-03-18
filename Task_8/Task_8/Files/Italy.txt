@@ -1,0 +1,1 @@
+Country: Italy Region: Europe subregion: Southern Europe area: 301336 population: 59554023 latlng: [42,833332 , 12,833333]

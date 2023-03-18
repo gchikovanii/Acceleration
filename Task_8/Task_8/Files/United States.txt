@@ -1,0 +1,1 @@
+Country: United States Region: Americas subregion: North America area: 9372610 population: 329484123 latlng: [38 , -97]

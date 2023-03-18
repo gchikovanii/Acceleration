@@ -1,0 +1,1 @@
+Country: Curaçao Region: Americas subregion: Caribbean area: 444 population: 155014 latlng: [12,116667 , -68,933334]

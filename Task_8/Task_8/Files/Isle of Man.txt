@@ -1,0 +1,1 @@
+Country: Isle of Man Region: Europe subregion: Northern Europe area: 572 population: 85032 latlng: [54,25 , -4,5]

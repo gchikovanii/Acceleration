@@ -1,0 +1,1 @@
+Country: South Sudan Region: Africa subregion: Middle Africa area: 619745 population: 11193729 latlng: [7 , 30]

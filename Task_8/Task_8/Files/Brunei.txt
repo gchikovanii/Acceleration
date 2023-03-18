@@ -1,0 +1,1 @@
+Country: Brunei Region: Asia subregion: South-Eastern Asia area: 5765 population: 437483 latlng: [4,5 , 114,666664]

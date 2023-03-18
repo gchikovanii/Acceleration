@@ -1,0 +1,1 @@
+Country: Zimbabwe Region: Africa subregion: Southern Africa area: 390757 population: 14862927 latlng: [-20 , 30]

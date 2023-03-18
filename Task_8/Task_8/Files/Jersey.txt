@@ -1,0 +1,1 @@
+Country: Jersey Region: Europe subregion: Northern Europe area: 116 population: 100800 latlng: [49,25 , -2,1666667]

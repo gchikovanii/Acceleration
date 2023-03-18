@@ -1,0 +1,1 @@
+Country: San Marino Region: Europe subregion: Southern Europe area: 61 population: 33938 latlng: [43,766666 , 12,416667]

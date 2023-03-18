@@ -1,0 +1,1 @@
+Country: Croatia Region: Europe subregion: Southeast Europe area: 56594 population: 4047200 latlng: [45,166668 , 15,5]

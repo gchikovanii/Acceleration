@@ -1,0 +1,1 @@
+Country: Finland Region: Europe subregion: Northern Europe area: 338424 population: 5530719 latlng: [64 , 26]

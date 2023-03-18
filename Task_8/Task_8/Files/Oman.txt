@@ -1,0 +1,1 @@
+Country: Oman Region: Asia subregion: Western Asia area: 309500 population: 5106622 latlng: [21 , 57]

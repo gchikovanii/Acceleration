@@ -1,0 +1,1 @@
+Country: Vatican City Region: Europe subregion: Southern Europe area: 0,44 population: 451 latlng: [41,9 , 12,45]

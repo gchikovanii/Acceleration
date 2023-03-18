@@ -1,0 +1,1 @@
+Country: Saint Vincent and the Grenadines Region: Americas subregion: Caribbean area: 389 population: 110947 latlng: [13,25 , -61,2]

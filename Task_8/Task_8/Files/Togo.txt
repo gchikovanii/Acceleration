@@ -1,0 +1,1 @@
+Country: Togo Region: Africa subregion: Western Africa area: 56785 population: 8278737 latlng: [8 , 1,1666666]

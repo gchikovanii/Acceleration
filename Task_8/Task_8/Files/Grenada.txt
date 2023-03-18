@@ -1,0 +1,1 @@
+Country: Grenada Region: Americas subregion: Caribbean area: 344 population: 112519 latlng: [12,116667 , -61,666668]

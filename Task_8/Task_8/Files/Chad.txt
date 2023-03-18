@@ -1,0 +1,1 @@
+Country: Chad Region: Africa subregion: Middle Africa area: 1284000 population: 16425859 latlng: [15 , 19]

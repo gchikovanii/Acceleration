@@ -1,0 +1,1 @@
+Country: Moldova Region: Europe subregion: Eastern Europe area: 33846 population: 2617820 latlng: [47 , 29]

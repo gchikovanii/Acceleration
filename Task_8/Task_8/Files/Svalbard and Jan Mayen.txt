@@ -1,0 +1,1 @@
+Country: Svalbard and Jan Mayen Region: Europe subregion: Northern Europe area: -1 population: 2562 latlng: [78 , 20]

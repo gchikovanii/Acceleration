@@ -1,0 +1,1 @@
+Country: New Zealand Region: Oceania subregion: Australia and New Zealand area: 270467 population: 5084300 latlng: [-41 , 174]

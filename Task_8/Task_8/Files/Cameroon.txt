@@ -1,0 +1,1 @@
+Country: Cameroon Region: Africa subregion: Middle Africa area: 475442 population: 26545864 latlng: [6 , 12]

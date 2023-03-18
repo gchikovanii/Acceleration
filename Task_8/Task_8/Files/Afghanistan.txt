@@ -1,0 +1,1 @@
+Country: Afghanistan Region: Asia subregion: Southern Asia area: 652230 population: 40218234 latlng: [33 , 65]

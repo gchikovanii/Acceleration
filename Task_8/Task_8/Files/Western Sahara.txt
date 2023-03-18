@@ -1,0 +1,1 @@
+Country: Western Sahara Region: Africa subregion: Northern Africa area: 266000 population: 510713 latlng: [24,5 , -13]

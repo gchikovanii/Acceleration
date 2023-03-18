@@ -1,0 +1,1 @@
+Country: Pitcairn Islands Region: Oceania subregion: Polynesia area: 47 population: 56 latlng: [-25,066668 , -130,1]

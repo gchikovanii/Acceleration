@@ -1,0 +1,1 @@
+Country: Mongolia Region: Asia subregion: Eastern Asia area: 1564110 population: 3278292 latlng: [46 , 105]

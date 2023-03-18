@@ -1,0 +1,1 @@
+Country: Haiti Region: Americas subregion: Caribbean area: 27750 population: 11402533 latlng: [19 , -72,416664]

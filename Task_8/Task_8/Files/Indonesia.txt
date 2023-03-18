@@ -1,0 +1,1 @@
+Country: Indonesia Region: Asia subregion: South-Eastern Asia area: 1904569 population: 273523621 latlng: [-5 , 120]

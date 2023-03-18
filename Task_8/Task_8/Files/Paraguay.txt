@@ -1,0 +1,1 @@
+Country: Paraguay Region: Americas subregion: South America area: 406752 population: 7132530 latlng: [-23 , -58]

@@ -1,0 +1,1 @@
+Country: Bahamas Region: Americas subregion: Caribbean area: 13943 population: 393248 latlng: [25,0343 , 77,3963]

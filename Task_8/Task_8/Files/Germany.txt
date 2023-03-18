@@ -1,0 +1,1 @@
+Country: Germany Region: Europe subregion: Western Europe area: 357114 population: 83240525 latlng: [51 , 9]

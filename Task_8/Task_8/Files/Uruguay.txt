@@ -1,0 +1,1 @@
+Country: Uruguay Region: Americas subregion: South America area: 181034 population: 3473727 latlng: [-33 , -56]

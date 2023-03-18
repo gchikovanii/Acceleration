@@ -1,0 +1,1 @@
+Country: Zambia Region: Africa subregion: Eastern Africa area: 752612 population: 18383956 latlng: [-15 , 30]

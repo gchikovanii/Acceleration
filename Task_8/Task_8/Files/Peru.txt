@@ -1,0 +1,1 @@
+Country: Peru Region: Americas subregion: South America area: 1285216 population: 32971846 latlng: [-10 , -76]

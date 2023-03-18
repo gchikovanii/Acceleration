@@ -1,0 +1,1 @@
+Country: Northern Mariana Islands Region: Oceania subregion: Micronesia area: 464 population: 57557 latlng: [15,2 , 145,75]

@@ -1,0 +1,1 @@
+Country: Timor-Leste Region: Asia subregion: South-Eastern Asia area: 14874 population: 1318442 latlng: [-8,833333 , 125,916664]

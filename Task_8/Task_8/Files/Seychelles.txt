@@ -1,0 +1,1 @@
+Country: Seychelles Region: Africa subregion: Eastern Africa area: 452 population: 98462 latlng: [-4,5833335 , 55,666668]

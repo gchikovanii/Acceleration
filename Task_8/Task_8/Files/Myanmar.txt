@@ -1,0 +1,1 @@
+Country: Myanmar Region: Asia subregion: South-Eastern Asia area: 676578 population: 54409794 latlng: [22 , 98]

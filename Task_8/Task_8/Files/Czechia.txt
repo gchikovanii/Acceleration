@@ -1,0 +1,1 @@
+Country: Czechia Region: Europe subregion: Central Europe area: 78865 population: 10698896 latlng: [49,75 , 15,5]

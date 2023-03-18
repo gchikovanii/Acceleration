@@ -1,0 +1,1 @@
+Country: Guinea Region: Africa subregion: Western Africa area: 245857 population: 13132792 latlng: [11 , -10]

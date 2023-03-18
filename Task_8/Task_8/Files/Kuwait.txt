@@ -1,0 +1,1 @@
+Country: Kuwait Region: Asia subregion: Western Asia area: 17818 population: 4270563 latlng: [29,5 , 45,75]

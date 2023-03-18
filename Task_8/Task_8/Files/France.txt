@@ -1,0 +1,1 @@
+Country: France Region: Europe subregion: Western Europe area: 551695 population: 67391582 latlng: [46 , 2]

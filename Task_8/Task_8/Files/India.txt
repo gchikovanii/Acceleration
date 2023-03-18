@@ -1,0 +1,1 @@
+Country: India Region: Asia subregion: Southern Asia area: 3287590 population: 1380004385 latlng: [20 , 77]

@@ -1,0 +1,1 @@
+Country: Cambodia Region: Asia subregion: South-Eastern Asia area: 181035 population: 16718971 latlng: [13 , 105]

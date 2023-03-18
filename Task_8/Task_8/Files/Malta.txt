@@ -1,0 +1,1 @@
+Country: Malta Region: Europe subregion: Southern Europe area: 316 population: 525285 latlng: [35,9375 , 14,3754]

@@ -1,0 +1,1 @@
+Country: Palestine Region: Asia subregion: Western Asia area: 6220 population: 4803269 latlng: [31,9 , 35,2]

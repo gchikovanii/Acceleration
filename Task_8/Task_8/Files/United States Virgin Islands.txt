@@ -1,0 +1,1 @@
+Country: United States Virgin Islands Region: Americas subregion: Caribbean area: 347 population: 106290 latlng: [18,35 , -64,933334]

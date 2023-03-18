@@ -1,0 +1,1 @@
+Country: Greenland Region: Americas subregion: North America area: 2166086 population: 56367 latlng: [72 , -40]

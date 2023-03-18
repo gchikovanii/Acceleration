@@ -1,0 +1,1 @@
+Country: Wallis and Futuna Region: Oceania subregion: Polynesia area: 142 population: 11750 latlng: [-13,3 , -176,2]

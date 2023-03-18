@@ -1,0 +1,1 @@
+Country: DR Congo Region: Africa subregion: Middle Africa area: 2344858 population: 108407721 latlng: [0 , 25]

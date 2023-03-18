@@ -1,0 +1,1 @@
+Country: Serbia Region: Europe subregion: Southeast Europe area: 88361 population: 6908224 latlng: [44 , 21]

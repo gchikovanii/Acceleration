@@ -1,0 +1,1 @@
+Country: Slovenia Region: Europe subregion: Central Europe area: 20273 population: 2100126 latlng: [46,116665 , 14,816667]

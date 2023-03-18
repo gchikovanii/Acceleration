@@ -1,0 +1,1 @@
+Country: El Salvador Region: Americas subregion: Central America area: 21041 population: 6486201 latlng: [13,833333 , -88,916664]

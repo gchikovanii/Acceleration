@@ -1,0 +1,1 @@
+Country: Honduras Region: Americas subregion: Central America area: 112492 population: 9904608 latlng: [15 , -86,5]

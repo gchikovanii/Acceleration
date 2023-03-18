@@ -1,0 +1,1 @@
+Country: British Virgin Islands Region: Americas subregion: Caribbean area: 151 population: 30237 latlng: [18,431383 , -64,62305]

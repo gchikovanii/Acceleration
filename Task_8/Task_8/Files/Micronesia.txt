@@ -1,0 +1,1 @@
+Country: Micronesia Region: Oceania subregion: Micronesia area: 702 population: 115021 latlng: [6,9166665 , 158,25]

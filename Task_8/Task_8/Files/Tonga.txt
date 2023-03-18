@@ -1,0 +1,1 @@
+Country: Tonga Region: Oceania subregion: Polynesia area: 747 population: 105697 latlng: [-20 , -175]

@@ -1,0 +1,1 @@
+Country: Åland Islands Region: Europe subregion: Northern Europe area: 1580 population: 29458 latlng: [60,11667 , 19,9]

@@ -1,0 +1,1 @@
+Country: Madagascar Region: Africa subregion: Eastern Africa area: 587041 population: 27691019 latlng: [-20 , 47]

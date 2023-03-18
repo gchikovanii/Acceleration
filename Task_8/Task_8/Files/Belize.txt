@@ -1,0 +1,1 @@
+Country: Belize Region: Americas subregion: Central America area: 22966 population: 397621 latlng: [17,25 , -88,75]

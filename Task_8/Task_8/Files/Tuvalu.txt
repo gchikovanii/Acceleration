@@ -1,0 +1,1 @@
+Country: Tuvalu Region: Oceania subregion: Polynesia area: 26 population: 11792 latlng: [-8 , 178]

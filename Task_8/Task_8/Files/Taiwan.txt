@@ -1,0 +1,1 @@
+Country: Taiwan Region: Asia subregion: Eastern Asia area: 36193 population: 23503349 latlng: [23,5 , 121]

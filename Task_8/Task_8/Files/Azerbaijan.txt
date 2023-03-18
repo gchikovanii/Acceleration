@@ -1,0 +1,1 @@
+Country: Azerbaijan Region: Asia subregion: Western Asia area: 86600 population: 10110116 latlng: [40,5 , 47,5]

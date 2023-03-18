@@ -1,0 +1,1 @@
+Country: Philippines Region: Asia subregion: South-Eastern Asia area: 342353 population: 109581085 latlng: [13 , 122]

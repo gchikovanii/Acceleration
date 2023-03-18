@@ -1,0 +1,1 @@
+Country: Russia Region: Europe subregion: Eastern Europe area: 17098242 population: 144104080 latlng: [60 , 100]

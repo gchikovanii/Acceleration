@@ -1,0 +1,1 @@
+Country: Benin Region: Africa subregion: Western Africa area: 112622 population: 12123198 latlng: [9,5 , 2,25]

@@ -1,0 +1,1 @@
+Country: Gabon Region: Africa subregion: Middle Africa area: 267668 population: 2225728 latlng: [-1 , 11,75]

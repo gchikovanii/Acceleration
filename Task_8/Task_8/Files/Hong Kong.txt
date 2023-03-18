@@ -1,0 +1,1 @@
+Country: Hong Kong Region: Asia subregion: Eastern Asia area: 1104 population: 7500700 latlng: [22,267 , 114,188]

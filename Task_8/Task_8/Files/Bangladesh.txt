@@ -1,0 +1,1 @@
+Country: Bangladesh Region: Asia subregion: Southern Asia area: 147570 population: 164689383 latlng: [24 , 90]

@@ -1,0 +1,1 @@
+Country: Falkland Islands Region: Americas subregion: South America area: 12173 population: 2563 latlng: [-51,75 , -59]

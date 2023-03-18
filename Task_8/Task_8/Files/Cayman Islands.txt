@@ -1,0 +1,1 @@
+Country: Cayman Islands Region: Americas subregion: Caribbean area: 264 population: 65720 latlng: [19,3133 , 81,2546]

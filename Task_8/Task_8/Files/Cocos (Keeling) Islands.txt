@@ -1,0 +1,1 @@
+Country: Cocos (Keeling) Islands Region: Oceania subregion: Australia and New Zealand area: 14 population: 544 latlng: [12,1642 , 96,871]

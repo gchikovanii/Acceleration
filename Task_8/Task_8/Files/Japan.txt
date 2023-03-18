@@ -1,0 +1,1 @@
+Country: Japan Region: Asia subregion: Eastern Asia area: 377930 population: 125836021 latlng: [36 , 138]

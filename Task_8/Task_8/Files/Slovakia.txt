@@ -1,0 +1,1 @@
+Country: Slovakia Region: Europe subregion: Central Europe area: 49037 population: 5458827 latlng: [48,666668 , 19,5]

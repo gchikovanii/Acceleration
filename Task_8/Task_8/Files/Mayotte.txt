@@ -1,0 +1,1 @@
+Country: Mayotte Region: Africa subregion: Eastern Africa area: 374 population: 226915 latlng: [-12,833333 , 45,166668]

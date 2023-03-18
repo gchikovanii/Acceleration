@@ -1,0 +1,1 @@
+Country: Gibraltar Region: Europe subregion: Southern Europe area: 6 population: 33691 latlng: [36,133335 , -5,35]

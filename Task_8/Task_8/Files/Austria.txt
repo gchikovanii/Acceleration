@@ -1,0 +1,1 @@
+Country: Austria Region: Europe subregion: Central Europe area: 83871 population: 8917205 latlng: [47,333332 , 13,333333]

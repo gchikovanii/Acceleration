@@ -1,0 +1,1 @@
+Country: Mali Region: Africa subregion: Western Africa area: 1240192 population: 20250834 latlng: [17 , -4]

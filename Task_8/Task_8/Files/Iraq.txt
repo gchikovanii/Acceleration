@@ -1,0 +1,1 @@
+Country: Iraq Region: Asia subregion: Western Asia area: 438317 population: 40222503 latlng: [33 , 44]

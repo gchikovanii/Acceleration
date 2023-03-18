@@ -1,0 +1,1 @@
+Country: Guernsey Region: Europe subregion: Northern Europe area: 78 population: 62999 latlng: [49,466667 , -2,5833333]

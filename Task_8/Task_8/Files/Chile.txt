@@ -1,0 +1,1 @@
+Country: Chile Region: Americas subregion: South America area: 756102 population: 19116209 latlng: [-30 , -71]

@@ -1,0 +1,1 @@
+Country: Ethiopia Region: Africa subregion: Eastern Africa area: 1104300 population: 114963583 latlng: [8 , 38]

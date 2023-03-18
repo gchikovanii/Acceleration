@@ -1,0 +1,1 @@
+Country: Jordan Region: Asia subregion: Western Asia area: 89342 population: 10203140 latlng: [31 , 36]

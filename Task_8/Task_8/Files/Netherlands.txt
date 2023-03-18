@@ -1,0 +1,1 @@
+Country: Netherlands Region: Europe subregion: Western Europe area: 41850 population: 16655799 latlng: [52,5 , 5,75]

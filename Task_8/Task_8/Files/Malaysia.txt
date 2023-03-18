@@ -1,0 +1,1 @@
+Country: Malaysia Region: Asia subregion: South-Eastern Asia area: 330803 population: 32365998 latlng: [2,5 , 112,5]

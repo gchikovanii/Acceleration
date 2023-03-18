@@ -1,0 +1,1 @@
+Country: Martinique Region: Americas subregion: Caribbean area: 1128 population: 378243 latlng: [14,666667 , -61]

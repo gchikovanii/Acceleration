@@ -1,0 +1,1 @@
+Country: Monaco Region: Europe subregion: Western Europe area: 2,02 population: 39244 latlng: [43,733334 , 7,4]

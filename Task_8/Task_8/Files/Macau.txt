@@ -1,0 +1,1 @@
+Country: Macau Region: Asia subregion: Eastern Asia area: 30 population: 649342 latlng: [22,166666 , 113,55]

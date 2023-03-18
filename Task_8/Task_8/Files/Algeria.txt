@@ -1,0 +1,1 @@
+Country: Algeria Region: Africa subregion: Northern Africa area: 2381741 population: 44700000 latlng: [28 , 3]

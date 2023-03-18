@@ -1,0 +1,1 @@
+Country: Saint Helena, Ascension and Tristan da Cunha Region: Africa subregion: Western Africa area: 394 population: 53192 latlng: [-15,95 , -5,72]

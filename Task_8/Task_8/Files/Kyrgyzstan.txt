@@ -1,0 +1,1 @@
+Country: Kyrgyzstan Region: Asia subregion: Central Asia area: 199951 population: 6591600 latlng: [41 , 75]

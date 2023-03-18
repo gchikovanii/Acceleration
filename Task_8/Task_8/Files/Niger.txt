@@ -1,0 +1,1 @@
+Country: Niger Region: Africa subregion: Western Africa area: 1267000 population: 24206636 latlng: [16 , 8]

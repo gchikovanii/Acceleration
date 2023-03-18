@@ -1,0 +1,1 @@
+Country: Israel Region: Asia subregion: Western Asia area: 20770 population: 9216900 latlng: [31,47 , 35,13]

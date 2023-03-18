@@ -1,0 +1,1 @@
+Country: Fiji Region: Oceania subregion: Melanesia area: 18272 population: 896444 latlng: [17,7134 , 178,065]

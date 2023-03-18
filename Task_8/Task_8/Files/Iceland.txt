@@ -1,0 +1,1 @@
+Country: Iceland Region: Europe subregion: Northern Europe area: 103000 population: 366425 latlng: [65 , -18]

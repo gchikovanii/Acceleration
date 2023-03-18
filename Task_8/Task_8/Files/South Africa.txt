@@ -1,0 +1,1 @@
+Country: South Africa Region: Africa subregion: Southern Africa area: 1221037 population: 59308690 latlng: [-29 , 24]

@@ -1,0 +1,1 @@
+Country: Sudan Region: Africa subregion: Northern Africa area: 1886068 population: 43849269 latlng: [15 , 30]

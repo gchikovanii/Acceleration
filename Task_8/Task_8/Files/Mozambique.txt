@@ -1,0 +1,1 @@
+Country: Mozambique Region: Africa subregion: Eastern Africa area: 801590 population: 31255435 latlng: [-18,25 , 35]

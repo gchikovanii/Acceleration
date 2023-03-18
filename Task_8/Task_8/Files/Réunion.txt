@@ -1,0 +1,1 @@
+Country: Réunion Region: Africa subregion: Eastern Africa area: 2511 population: 840974 latlng: [-21,15 , 55,5]

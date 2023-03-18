@@ -1,0 +1,1 @@
+Country: Qatar Region: Asia subregion: Western Asia area: 11586 population: 2881060 latlng: [25,5 , 51,25]

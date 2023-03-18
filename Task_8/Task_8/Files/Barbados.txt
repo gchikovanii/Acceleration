@@ -1,0 +1,1 @@
+Country: Barbados Region: Americas subregion: Caribbean area: 430 population: 287371 latlng: [13,166667 , -59,533333]

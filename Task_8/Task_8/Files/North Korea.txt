@@ -1,0 +1,1 @@
+Country: North Korea Region: Asia subregion: Eastern Asia area: 120538 population: 25778815 latlng: [40 , 127]

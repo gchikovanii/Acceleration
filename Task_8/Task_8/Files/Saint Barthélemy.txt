@@ -1,0 +1,1 @@
+Country: Saint Barthélemy Region: Americas subregion: Caribbean area: 21 population: 4255 latlng: [18,5 , -63,416668]

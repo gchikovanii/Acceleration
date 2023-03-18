@@ -1,0 +1,1 @@
+Country: United Arab Emirates Region: Asia subregion: Western Asia area: 83600 population: 9890400 latlng: [24 , 54]

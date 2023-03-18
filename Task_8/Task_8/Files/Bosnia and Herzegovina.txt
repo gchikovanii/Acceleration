@@ -1,0 +1,1 @@
+Country: Bosnia and Herzegovina Region: Europe subregion: Southeast Europe area: 51209 population: 3280815 latlng: [44 , 18]

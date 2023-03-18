@@ -1,0 +1,1 @@
+Country: French Guiana Region: Americas subregion: South America area: 83534 population: 254541 latlng: [4 , -53]

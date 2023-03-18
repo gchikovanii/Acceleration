@@ -1,0 +1,1 @@
+Country: Denmark Region: Europe subregion: Northern Europe area: 43094 population: 5831404 latlng: [56 , 10]

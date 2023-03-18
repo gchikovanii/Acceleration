@@ -1,0 +1,1 @@
+Country: Argentina Region: Americas subregion: South America area: 2780400 population: 45376763 latlng: [-34 , -64]

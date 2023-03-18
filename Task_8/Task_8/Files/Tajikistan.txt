@@ -1,0 +1,1 @@
+Country: Tajikistan Region: Asia subregion: Central Asia area: 143100 population: 9537642 latlng: [39 , 71]

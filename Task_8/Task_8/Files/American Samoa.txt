@@ -1,0 +1,1 @@
+Country: American Samoa Region: Oceania subregion: Polynesia area: 199 population: 55197 latlng: [-14,333333 , -170]

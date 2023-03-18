@@ -1,0 +1,1 @@
+Country: Montenegro Region: Europe subregion: Southeast Europe area: 13812 population: 621718 latlng: [42,5 , 19,3]

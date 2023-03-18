@@ -1,0 +1,1 @@
+Country: Albania Region: Europe subregion: Southeast Europe area: 28748 population: 2837743 latlng: [41 , 20]

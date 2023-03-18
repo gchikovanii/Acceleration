@@ -1,0 +1,1 @@
+Country: Samoa Region: Oceania subregion: Polynesia area: 2842 population: 198410 latlng: [-13,583333 , -172,33333]

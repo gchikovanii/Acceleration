@@ -1,0 +1,1 @@
+Country: Palau Region: Oceania subregion: Micronesia area: 459 population: 18092 latlng: [7,5 , 134,5]

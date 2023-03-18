@@ -1,0 +1,1 @@
+Country: Romania Region: Europe subregion: Southeast Europe area: 238391 population: 19286123 latlng: [46 , 25]

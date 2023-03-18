@@ -1,0 +1,1 @@
+Country: Georgia Region: Asia subregion: Western Asia area: 69700 population: 3714000 latlng: [42 , 43,5]

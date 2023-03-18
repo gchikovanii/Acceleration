@@ -1,0 +1,1 @@
+Country: Norfolk Island Region: Oceania subregion: Australia and New Zealand area: 36 population: 2302 latlng: [-29,033333 , 167,95]

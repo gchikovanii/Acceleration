@@ -1,0 +1,1 @@
+Country: French Southern and Antarctic Lands Region: Antarctic subregion:  area: 7747 population: 400 latlng: [-49,25 , 69,167]

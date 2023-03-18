@@ -1,0 +1,1 @@
+Country: Guadeloupe Region: Americas subregion: Caribbean area: 1628 population: 400132 latlng: [16,25 , -61,583332]

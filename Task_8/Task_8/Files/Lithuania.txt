@@ -1,0 +1,1 @@
+Country: Lithuania Region: Europe subregion: Northern Europe area: 65300 population: 2794700 latlng: [56 , 24]

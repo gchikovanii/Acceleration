@@ -1,0 +1,1 @@
+Country: Bouvet Island Region: Antarctic subregion:  area: 49 population: 0 latlng: [54,4208 , 3,3464]

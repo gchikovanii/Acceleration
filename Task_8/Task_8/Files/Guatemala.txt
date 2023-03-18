@@ -1,0 +1,1 @@
+Country: Guatemala Region: Americas subregion: Central America area: 108889 population: 16858333 latlng: [15,5 , -90,25]

@@ -1,0 +1,1 @@
+Country: Spain Region: Europe subregion: Southern Europe area: 505992 population: 47351567 latlng: [40 , -4]

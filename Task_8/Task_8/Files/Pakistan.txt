@@ -1,0 +1,1 @@
+Country: Pakistan Region: Asia subregion: Southern Asia area: 881912 population: 220892331 latlng: [30 , 70]

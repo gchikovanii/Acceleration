@@ -1,0 +1,1 @@
+Country: Greece Region: Europe subregion: Southern Europe area: 131990 population: 10715549 latlng: [39 , 22]

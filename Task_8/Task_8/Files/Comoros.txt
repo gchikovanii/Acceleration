@@ -1,0 +1,1 @@
+Country: Comoros Region: Africa subregion: Eastern Africa area: 1862 population: 869595 latlng: [-12,166667 , 44,25]

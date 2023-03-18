@@ -1,0 +1,1 @@
+Country: Cuba Region: Americas subregion: Caribbean area: 109884 population: 11326616 latlng: [21,5 , -80]

@@ -1,0 +1,1 @@
+Country: Nepal Region: Asia subregion: Southern Asia area: 147181 population: 29136808 latlng: [28 , 84]

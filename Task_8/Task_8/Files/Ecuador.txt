@@ -1,0 +1,1 @@
+Country: Ecuador Region: Americas subregion: South America area: 276841 population: 17643060 latlng: [-2 , -77,5]

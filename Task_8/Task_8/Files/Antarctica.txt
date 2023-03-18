@@ -1,0 +1,1 @@
+Country: Antarctica Region: Antarctic subregion:  area: 14000000 population: 1000 latlng: [-90 , 0]

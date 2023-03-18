@@ -1,0 +1,1 @@
+Country: Niue Region: Oceania subregion: Polynesia area: 260 population: 1470 latlng: [-19,033333 , -169,86667]

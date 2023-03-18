@@ -1,0 +1,1 @@
+Country: North Macedonia Region: Europe subregion: Southeast Europe area: 25713 population: 2077132 latlng: [41,833332 , 22]

@@ -1,0 +1,1 @@
+Country: Morocco Region: Africa subregion: Northern Africa area: 446550 population: 36910558 latlng: [32 , -5]

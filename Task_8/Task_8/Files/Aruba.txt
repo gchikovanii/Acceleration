@@ -1,0 +1,1 @@
+Country: Aruba Region: Americas subregion: Caribbean area: 180 population: 106766 latlng: [12,5 , -69,96667]

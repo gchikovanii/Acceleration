@@ -1,0 +1,1 @@
+Country: Bermuda Region: Americas subregion: North America area: 54 population: 63903 latlng: [32,333332 , -64,75]
